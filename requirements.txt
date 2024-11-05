@@ -1,0 +1,8 @@
+pandas
+numpy
+urllib3==1.26.15
+gspread
+google-auth
+oauth2client
+gspread_dataframe
+psycopg2-binary
